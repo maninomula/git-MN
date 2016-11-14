@@ -8,7 +8,7 @@
 
 import UIKit
 
-class BeeVC: UIViewController {
+class BeeVC:UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
